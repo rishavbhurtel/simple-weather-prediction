@@ -1,4 +1,4 @@
-# simple-weather-prediction
+# simple-weather-prediction in MATLAB
 # predicted weather using simple probability from past data
 # past data is of 1 years 2016-2017
 # if we want to predict for tomorrow search for todays temp wind and precipitation
